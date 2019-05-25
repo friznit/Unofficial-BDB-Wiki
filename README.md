@@ -1,1 +1,1 @@
-See wiki htps://github.com/friznit/BDBwiki/wiki
+See wiki https://github.com/friznit/BDBwiki/wiki
